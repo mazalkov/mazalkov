@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Andrew</h1>
+<h3 align="center">An Engineering undergraduate teaching myself SWE</h3>
 
-<!--
-**mazalkov/mazalkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Exams and coursework for university**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C++ and advanced Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Anything in the startup space**
+
+- 🤝 I’m looking for help with **Getting into professional software engineering**
+
+- 💬 Ask me about **MATLAB, Simulink or any MathWorks products**
+
+- 📫 How to reach me **https://linkedin.com/in/mazalkov**
+
+- 📄 See more of my experience [https://mazalkov.co.uk/assets/AndrewM_CV.pdf](https://mazalkov.co.uk/assets/AndrewM_CV.pdf)
+
+- ⚡ Fun fact **I like pineapple on pizza**
+
