@@ -14,3 +14,5 @@
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/mazalkov){:target="_blank"}
 
 - 📄 See more experience [on my resume](https://mazalkov.co.uk/assets/AndrewM_CV.pdf){:target="_blank"}
+
+<a href="https://linkedin.com/in/mazalkov" target="_blank">Reach me on LinkedIn</a>
