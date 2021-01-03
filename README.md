@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **MATLAB, Simulink or any MathWorks products**
 
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/mazalkov){:target="_blank"}
+- 📫 Contact me on <a href="https://linkedin.com/in/mazalkov" target="_blank">LinkedIn</a>
 
-- 📄 See more experience [on my resume](https://mazalkov.co.uk/assets/AndrewM_CV.pdf){:target="_blank"}
-
-<a href="https://linkedin.com/in/mazalkov" target="_blank">Reach me on LinkedIn</a>
+- 📄 See more experience <a href="https://mazalkov.co.uk/assets/AndrewM_CV.pdf" target="_blank">on my resume</a>
