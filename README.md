@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">Engineering undergraduate self teaching SWE</h3>
+<h3 align="center">This is my self taught journey into software engineering</h3>
 
 - 🔭 I’m currently working on **exams and coursework for university**
 
