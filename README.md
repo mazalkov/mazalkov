@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">This is my self taught journey into software engineering</h3>
 
-- 🔭 I’m currently working on **exams and coursework for university**
+- 🔭 I’m currently working on **coursework for university along with side projects**
 
-- 🌱 I’m currently learning **Advanced Python, C++ and systems principles**
+- 🌱 I’m currently learning **advanced Python, C++ and systems principles**
 
 - 👯 I’m looking to collaborate on **anything in the startup space**
 
