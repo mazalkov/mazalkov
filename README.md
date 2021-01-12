@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **exams and coursework for university**
 
-- 🌱 I’m currently learning **C++ and advanced Python**
+- 🌱 I’m currently learning **Advanced Python, C++ and systems principles**
 
 - 👯 I’m looking to collaborate on **anything in the startup space**
 
-- 🤝 I’m looking for help with **getting into professional software engineering**
+- 🤝 I’m looking for help with **getting into professional SWE**
 
 - 💬 Ask me about **MATLAB, Simulink or any MathWorks products**
 
