@@ -11,6 +11,6 @@
 
 - 💬 Ask me about **MATLAB and Simulink**
 
-- 📄 See more <a href="https://mazalkov.co.uk/assets/AndrewM_CV.pdf" target="_blank">on my resume</a>
+- 📄 See more on my <a href="https://mazalkov.co.uk/assets/AndrewM_CV.pdf" target="_blank">resume</a>
 
 - 📫 Contact me via <a href="https://linkedin.com/in/mazalkov" target="_blank">LinkedIn</a>
