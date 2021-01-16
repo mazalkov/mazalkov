@@ -9,8 +9,8 @@
 
 - 🤝 I’m looking for help with **getting into professional SWE**
 
-- 💬 Ask me about **MATLAB, Simulink or any MathWorks products**
+- 💬 Ask me about **MATLAB and Simulink**
 
-- 📫 Contact me on <a href="https://linkedin.com/in/mazalkov" target="_blank">LinkedIn</a>
+- 📄 See more <a href="https://mazalkov.co.uk/assets/AndrewM_CV.pdf" target="_blank">on my resume</a>
 
-- 📄 See more experience <a href="https://mazalkov.co.uk/assets/AndrewM_CV.pdf" target="_blank">on my resume</a>
+- 📫 Contact me via <a href="https://linkedin.com/in/mazalkov" target="_blank">LinkedIn</a>
