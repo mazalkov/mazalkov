@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything in the startup space**
 
-- 🤝 I’m looking for help with **getting into professional SWE**
+- 🤝 I’m looking for help with **applying SWE to industrial operations**
 
 - 💬 Ask me about **MATLAB and Simulink**
 
